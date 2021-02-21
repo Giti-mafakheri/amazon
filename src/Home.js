@@ -12,12 +12,14 @@ function Home() {
         />
         <div className="home__row">
           <Product
+            id="1"
             title="The lean startup"
             price={29.99}
             image="https://blog.ganttpro.com/wp-content/uploads/2015/12/The-Lean-startup.png"
             rating={2}
           />
           <Product
+            id="2"
             title="The lean startup"
             price={29.99}
             image="https://blog.ganttpro.com/wp-content/uploads/2015/12/The-Lean-startup.png"
